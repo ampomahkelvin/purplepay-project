@@ -1,0 +1,15 @@
+{
+  "development":{
+    "ENV": "PROJECT_DATABASE_URL"
+  },
+  "staging": {
+    "ENV": "PROJECT_DATABASE_URL"
+  },
+  "production":{
+    "ENV": "PROJECT_DATABASE_URL"
+  },
+  "defaultEnv":{
+    "ENV": "PROJECT_NODE_ENV"
+  },
+  "sql-file": true
+}
